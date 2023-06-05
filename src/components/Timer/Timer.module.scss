@@ -1,0 +1,16 @@
+@import '../../styles/settings.scss';
+
+.wrapperStopper {
+  background-color: #2f3542;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 30px;
+  align-items: center;
+  height: 850px;
+}
+
+p {
+  font-size: 100px;
+}
